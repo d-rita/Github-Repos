@@ -1,4 +1,4 @@
-## Trending Repos - Gemography Frontend Challenge: 
+## Trending Repos - GitHub Users API: 
 
 ## Project description:
  - Implement a small webapp that will list the most starred Github repos that were created in the last 30 days using the GitHub API.
